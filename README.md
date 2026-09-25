@@ -1,4 +1,4 @@
-# Esse projeto não é de minha autoria, sendo apenas uma atividade passada pelo professor de mobile!!!! Estamos apenas tentando implementar e fazer algumas melhorias. Não tmos a intenção de publicar.
+# Esse projeto não é de minha autoria, sendo apenas uma atividade passada pelo professor de mobile!!!! Estamos apenas tentando implementar e fazer algumas melhorias. Não temos a intenção de publicar.
 ## 🤖 Robôneuro
 
 O **Robôneuro** é um aplicativo mobile desenvolvido para auxiliar na interação de crianças neurodivergentes com um robô educativo e interativo.
