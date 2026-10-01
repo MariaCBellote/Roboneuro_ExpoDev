@@ -94,7 +94,7 @@ O aplicativo poderá acompanhar a interação da criança com as atividades:
 ## 📌 Próximos passos
 
 * [x] Finalizar tela de Login
-* [ ] Criar tela inicial
+* [x] Criar tela inicial
 * [ ] Criar navegação entre as seções
 * [ ] Criar tela de Jogos
 * [ ] Criar tela de Atividades
