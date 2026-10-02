@@ -98,7 +98,6 @@ O aplicativo poderá acompanhar a interação da criança com as atividades:
 * [ ] Criar navegação entre as seções
 * [ ] Criar tela de Jogos
 * [ ] Criar tela de Atividades
-* [ ] Criar tela Meu Robô
-* [ ] Criar sistema de progresso
-* [ ] Criar sistema de conquistas
-* [ ] Criar configurações de acessibilidade
+* [X] Criar tela Meu Robô
+* [X] Criar sistema de progresso - parcialmente
+* [X] Criar configurações de acessibilidade
